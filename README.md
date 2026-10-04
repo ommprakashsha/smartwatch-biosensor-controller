@@ -117,4 +117,16 @@ make unload
 ```
 
 ---
+# Author
+
+**Omm Prakash Sha**  
+B.Tech – Computer Science & Engineering (IoT)  
+Siksha 'O' Anusandhan University, Bhubaneswar
+
+---
+
+## Final Note
+
+This project was developed as an educational prototype to understand how a smartwatch-style monitoring system can be designed using **Linux kernel programming, C, C++, IOCTL communication, multithreading, synchronization, and logging**.
+
 
