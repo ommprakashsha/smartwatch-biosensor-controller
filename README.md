@@ -118,11 +118,3 @@ make unload
 
 ---
 
-## 📚 Stage Documentation
-* [Stage 1: Project Charter & Scope](docs/stage1_project_charter.md)
-* [Stage 2: Product Requirements Document (PRD)](docs/stage2_PRD.md)
-* [Stage 3: System Design & UML Diagrams](docs/stage3_system_architecture.md)
-* [Stage 4: Prototype Implementation Notes](docs/stage4_prototype_notes.md)
-* [Stage 5: Testing, Memory Leak & Quality Assurance](docs/stage5_testing_guide.md)
-* [Stage 6: Final Presentation & Viva Interview Guide](docs/stage6_viva_defense.md)
-* [Presentation Slides (10 Slides)](docs/presentation_slides.md)
