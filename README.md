@@ -4,14 +4,14 @@ A complete end-to-end embedded Linux project bridging **Computer Architecture**,
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 Wearable health devices (smartwatches and fitness bands) continuously monitor vital signs—such as optical heart rate (PPG), blood oxygen saturation (SpO2), and pedometer step counts. When acute vital anomalies occur (such as sudden tachycardia where heart rate exceeds safe boundaries, or sudden high-G impacts indicating a fall), the system must immediately deliver tactile haptic feedback to alert the user and maintain a persistent medical audit trail.
 
 This project implements a **Linux Character Device Driver** (`/dev/smart_watch_bio`) emulating the hardware registers of a biosensor and haptic vibration motor, coupled with a multi-threaded **Modern C++ Guardian Daemon** interfacing via POSIX system calls and standard IOCTL controls.
 
 ---
 
-## 🏛️ System Architecture
+##  System Architecture
 
 ```mermaid
 flowchart TD
@@ -47,7 +47,7 @@ flowchart TD
 
 ---
 
-## 💡 Key Technical Concepts Implemented
+## Key Technical Concepts Implemented
 
 | Domain | Technical Concepts Implemented |
 | :--- | :--- |
@@ -58,7 +58,7 @@ flowchart TD
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 smartwatch-biosensor-controller/
@@ -92,7 +92,7 @@ smartwatch-biosensor-controller/
 
 ---
 
-## 🚀 Build & Run Instructions
+##  Build & Run Instructions
 
 ### 1. Build Both Driver and C++ Application
 ```bash
